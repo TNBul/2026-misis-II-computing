@@ -1,0 +1,84 @@
+---------------=============== EAX = 0 ===============---------------
+Number of basic functions = 13
+Vendor = AuthenticAMD
+
+---------------=============== EAX = 1 ===============---------------
+EAX info =   a00f10h
+    Version info = a00f10h
+    Stepping ID      = 0h
+    Model            = 1h
+    Family           = fh
+    Processor type   = 0h
+    Extended model   = 0h
+    Extended family  = ah
+
+EBX info =  2080800h
+    Brand index =  0h
+    CLFLUSH line size =  8h = 64 Bytes
+    Maximal IDs number of logical processors per physical =  8h = 8
+    Local APIC ID =  2h
+
+EDX info = 178bfbffh
+    FPU                                 = 1
+    VME                                 = 1
+    DE                                  = 1
+    PSE                                 = 1
+    TSC                                 = 1
+    MSR                                 = 1
+    PAE                                 = 1
+    MCE                                 = 1
+    CMPXCHG8B                           = 1
+    APIC                                = 1
+    SEP                                 = 0
+    MTRR                                = 1
+    PGE                                 = 1
+    MCA                                 = 1
+    CMOV                                = 1
+    PAT                                 = 1
+    PSE36                               = 1
+    PSN                                 = 1
+    CLFLUSH                             = 0
+    DS                                  = 1
+    ACPI                                = 0
+    MMX                                 = 0
+    FXSR                                = 0
+    SSE                                 = 1
+    SSE2                                = 1
+    SS                                  = 1
+    HTT                                 = 1
+    TM                                  = 0
+    PBE                                 = 1
+
+ECX info = fefa3203h
+    SSE3                                = 1
+    PCLMULQDQ                           = 1
+    SSSE3                               = 0
+    FMA3                                = 0
+    SSE4.1                              = 0
+    SSE4.2                              = 0
+    POPCNT                              = 0
+    AES                                 = 0
+    AVX                                 = 0
+    RDRAND                              = 1
+    OSXSAVE                             = 0
+    XSAVE                               = 0
+    XRSTOR                              = 1
+    XSAVEOPT                            = 1
+    LWP                                 = 0
+    FMA4                                = 0
+    TBM                                 = 0
+    TOPEXT                              = 1
+    PCONFIG                             = 0
+    IBT                                 = 1
+    AMX-BF16                            = 1
+    AMX-TILE                            = 1
+    AMX-INT8                            = 1
+    IBRS                                = 1
+    STIBP                               = 0
+    L1D_FLUSH                           = 1
+    ARCH_CAPABILITIES                   = 1
+    CORE_CAPABILITIES                   = 1
+    SSBD                                = 1
+
+------------============ EAX = 80000002h ... 80000004h ============------------
+CPU brand string: AMD EPYC 7B13
